@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haoran-Jie
-- 👀 I’m interested in Machine Learning, algorithms, Cryptography, and Quantum Computing.
+- 👀 I’m interested in Machine Learning, algorithms, Cryptography, Front-end, and Quantum Computing.
 - 🌱 I’m currently learning Neural networks
 - 📔 I'm currently reading Computer Science in Cambridge
 - 💞️ I’m looking to collaborate on ...
