@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, algorithms, Cryptography, Front-end, and Quantum Computing.
 - 🌱 I’m currently learning Neural networks
 - 📔 I'm currently reading Computer Science in Cambridge
-- 💞️ I’m looking to collaborate on ...
+- 💞️ You can know me through my [blog](https://haoran-jie.github.io/)
 - 📫 How to reach me: samueljie1@gmail.com
 
 <!---
